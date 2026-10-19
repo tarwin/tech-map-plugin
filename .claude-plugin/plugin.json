@@ -1,0 +1,23 @@
+{
+  "name": "tech-map",
+  "version": "1.0.0",
+  "description": "Build an interactive, single-file map of a company's systems from its cloud accounts (AWS, Google Cloud, Azure, Cloudflare, Vercel, Netlify) and code repos, with a security findings report and raw inventory. Read-only.",
+  "author": {
+    "name": "Tarwin Stroh-Spijer"
+  },
+  "homepage": "https://github.com/tarwin/tech-map-plugin",
+  "repository": "https://github.com/tarwin/tech-map-plugin",
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "system-map",
+    "infrastructure",
+    "aws",
+    "gcp",
+    "azure",
+    "cloudflare",
+    "security",
+    "inventory",
+    "onboarding"
+  ]
+}

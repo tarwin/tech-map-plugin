@@ -1,0 +1,12 @@
+{
+  "name": "tarwin",
+  "description": "Claude Code plugins by Tarwin Stroh-Spijer",
+  "owner": { "name": "Tarwin Stroh-Spijer" },
+  "plugins": [
+    {
+      "name": "tech-map",
+      "source": "./",
+      "description": "Interactive system map of your cloud accounts and code repos, with findings and inventory. Read-only."
+    }
+  ]
+}
